@@ -11,7 +11,7 @@
     $pi = 3.14159265; // Troque a vírgula por ponto
     echo "$pi<br>";
 
-    // variavel do tipo booleano
+    // variavel do tipo booleano 
     $sim = true;
     echo "$sim<br>";
 ?>
