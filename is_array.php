@@ -5,7 +5,7 @@
     echo "A variável \$meuArray é um array? " . (is_array($meuArray) ? 'Sim' : 'Não') . "<br>";
 
     // Variável do tipo string
-    $nome = 'Meu nome 123';
+    $nome = 'Meu nome é Raí';
     echo "A variável \$nome é um array? " . (is_array($nome) ? 'Sim' : 'Não') . "<br>";
 
     // Variável do tipo inteiro
